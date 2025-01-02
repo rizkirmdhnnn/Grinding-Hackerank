@@ -7,3 +7,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 1. [Challenge 1: Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)
 2. [Challenge 2: Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
 3. [Challenge 3: Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
+4. [Challenge 4: A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)

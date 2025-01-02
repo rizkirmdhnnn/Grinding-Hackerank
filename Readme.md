@@ -8,3 +8,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 2. [Challenge 2: Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
 3. [Challenge 3: Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
 4. [Challenge 4: A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)
+5. [Challenge 5: Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)

@@ -9,3 +9,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 3. [Challenge 3: Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
 4. [Challenge 4: A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)
 5. [Challenge 5: Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
+6. [Challenge 6: Plus Minus](https://www.hackerrank.com/challenges/plus-minus)

@@ -16,3 +16,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 10. [Challange 10: Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)
 11. [Challange 11: Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)
 12. [Challange 12: Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)
+13. [Challange 13: Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)

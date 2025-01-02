@@ -12,3 +12,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 6. [Challenge 6: Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
 7. [Challenge 7: Staircase](https://www.hackerrank.com/challenges/staircase)
 8. [Challenge 8: Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
+9. [Challenge 9: Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)

@@ -10,3 +10,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 4. [Challenge 4: A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)
 5. [Challenge 5: Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
 6. [Challenge 6: Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
+7. [Challenge 7: Staircase](https://www.hackerrank.com/challenges/staircase)

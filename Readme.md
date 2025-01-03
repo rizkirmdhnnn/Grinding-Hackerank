@@ -27,3 +27,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 2. [Challenge 2: Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)
 3. [Challenge 3: Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)
 4. [Challenge 4: Select By Id](https://www.hackerrank.com/challenges/select-by-id/problem)
+5. [Challenge 5: Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)

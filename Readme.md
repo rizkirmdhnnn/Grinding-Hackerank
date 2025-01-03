@@ -4,6 +4,8 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 
 ## Tantangan yang Selesai
 
+### Problem Solving
+
 1. [Challenge 1: Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)
 2. [Challenge 2: Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
 3. [Challenge 3: Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
@@ -18,3 +20,7 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 12. [Challange 12: Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)
 13. [Challange 13: Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)
 14. [Challange 14: Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)
+
+### SQL
+
+1. [Challenge 1: Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)

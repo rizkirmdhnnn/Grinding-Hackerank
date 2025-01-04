@@ -20,6 +20,7 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 12. [Challange 12: Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)
 13. [Challange 13: Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)
 14. [Challange 14: Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)
+15. [Challange 15: Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)
 
 ### SQL
 

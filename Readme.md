@@ -21,6 +21,7 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 13. [Challange 13: Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)
 14. [Challange 14: Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)
 15. [Challange 15: Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)
+16. [Challange 16: Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)
 
 ### SQL
 

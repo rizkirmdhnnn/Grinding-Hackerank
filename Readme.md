@@ -44,3 +44,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 17. [Challenge 17: Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)
 18. [Challenge 18: Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)
 19. [Challenge 19: Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)
+20. [Challenge 20: Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)

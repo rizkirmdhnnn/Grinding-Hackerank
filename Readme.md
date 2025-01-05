@@ -22,6 +22,7 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 14. [Challange 14: Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)
 15. [Challange 15: Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)
 16. [Challange 16: Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)
+17. [Challange 17: Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)
 
 ### SQL
 

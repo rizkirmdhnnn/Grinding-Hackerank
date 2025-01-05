@@ -42,3 +42,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 15. [Challenge 15: Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)
 16. [Challenge 16: Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)
 17. [Challenge 17: Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)
+18. [Challenge 18: Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)

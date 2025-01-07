@@ -48,3 +48,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 20. [Challenge 20: Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)
 21. [Challenge 21: Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)
 22. [Challenge 22: Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)
+23. [Challenge 23: African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)

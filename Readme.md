@@ -49,3 +49,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 21. [Challenge 21: Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)
 22. [Challenge 22: Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)
 23. [Challenge 23: African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)
+24. [Challenge 24: Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)

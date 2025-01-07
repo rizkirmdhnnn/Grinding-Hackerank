@@ -50,3 +50,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 22. [Challenge 22: Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)
 23. [Challenge 23: African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)
 24. [Challenge 24: Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)
+25. [Challenge 25: Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)

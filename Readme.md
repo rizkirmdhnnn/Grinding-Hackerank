@@ -52,3 +52,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 24. [Challenge 24: Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)
 25. [Challenge 25: Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)
 26. [Challenge 26: The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
+27. [Challenge 27: Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)

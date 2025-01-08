@@ -24,6 +24,7 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 16. [Challange 16: Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)
 17. [Challange 17: Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)
 18. [Challange 18: Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)
+19. [Challange 19: Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)
 
 ### SQL
 

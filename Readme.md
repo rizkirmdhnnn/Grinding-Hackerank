@@ -23,6 +23,7 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 15. [Challange 15: Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)
 16. [Challange 16: Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)
 17. [Challange 17: Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)
+18. [Challange 18: Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)
 
 ### SQL
 

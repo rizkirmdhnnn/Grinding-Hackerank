@@ -56,3 +56,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 26. [Challenge 26: The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
 27. [Challenge 27: Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)
 28. [Challenge 28: Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)
+29. [Challenge 29: Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)

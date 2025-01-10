@@ -60,3 +60,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 30. [Challenge 30: Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)
 31. [Challenge 31: Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)
 32. [Challenge 32: Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true)
+33. [Challenge 33: The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)

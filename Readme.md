@@ -59,3 +59,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 29. [Challenge 29: Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)
 30. [Challenge 30: Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)
 31. [Challenge 31: Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)
+32. [Challenge 32: Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true)

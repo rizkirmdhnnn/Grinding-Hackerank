@@ -63,3 +63,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 33. [Challenge 33: The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)
 34. [Challenge 34: Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)
 35. [Challenge 35: Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true)
+36. [Challenge 36: Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true)

@@ -66,3 +66,4 @@ Repository ini dibuat untuk mendokumentasikan perjalanan belajar saya di HackerR
 36. [Challenge 36: Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true)
 37. [Challenge 37: Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true)
 38. [Challenge 38: Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true)
+39. [Challenge 39: Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true)
